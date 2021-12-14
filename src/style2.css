@@ -47,9 +47,9 @@ border:2px solid;
 }
 
 #desserts{
-border:2 px solid;
+border:2px solid;
 }
-/* Make the name of each menu item appear in bold in a 16px size. */
+
 dt {
 display: inline;
 font-weight: 700;
